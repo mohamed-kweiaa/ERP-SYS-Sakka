@@ -18,3 +18,5 @@ module.exports = {
    */
   bootstrap(/*{ strapi }*/) {},
 };
+
+// test2 back end
